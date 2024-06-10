@@ -1,4 +1,3 @@
-connection: "datalabs-superstore"
 connection: "mediawave-looker-poc"
 
 # include all the views
