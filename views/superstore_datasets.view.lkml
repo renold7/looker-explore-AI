@@ -1,4 +1,4 @@
-view: superstore_datasets_ai {
+view: superstore_datasets {
   sql_table_name: `explore_assistant.superstore_datasets` ;;
 
   dimension: category {
