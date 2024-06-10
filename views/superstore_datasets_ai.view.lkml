@@ -1,5 +1,5 @@
 view: superstore_datasets_ai {
-  sql_table_name: `dla_data_governance.superstore_datasets` ;;
+  sql_table_name: `explore_assistant.superstore_datasets` ;;
 
   dimension: category {
     type: string
