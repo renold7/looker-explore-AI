@@ -10,8 +10,6 @@ datagroup: datalabs_superstore_test_default_datagroup {
 
 persist_with: datalabs_superstore_test_default_datagroup
 
-explore: superstore_datasets {}
-
 explore: superstore_datasets_ai {}
 
 explore: explore_assistant_examples {}
