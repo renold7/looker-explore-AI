@@ -92,4 +92,9 @@ view: superstore_datasets {
     type: count
     drill_fields: [customer_name]
   }
+  measure: gmv_profit {
+    type: number
+    sql: SUM(${profit}*SUM(${gmv}) ;;
+  }
+
 }
